@@ -14,7 +14,7 @@
         </div>
         <div class="row reverse q-mt-xs-md q-mt-md-lg full-width items-center bg-teal-2">
           <video autoplay muted loop class="col-xs-12 col-md-5">
-            <source src="../assets/seavid.mp4" type="video/mp4">
+            <source src="../assets/video2.mp4" type="video/mp4">
             Your browser does not support the video tag.
           </video>
             <div class="text-center col-xs-12 col-md-7 q-px-xs-md q-px-md-xl column q-mt-xs-md">
