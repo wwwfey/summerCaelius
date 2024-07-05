@@ -1,1 +1,7 @@
-// app global css in SCSS form
+@font-face {
+  font-family: "Feeling Passionate";
+  src: url("fonts/Feeling_Passionate.otf");
+}
+.feeling-passionate{
+  font-family: "Feeling Passionate"
+}

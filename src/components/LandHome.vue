@@ -5,9 +5,9 @@
       </video>
 
         <div class="column justify-center text-center full-width">
-          <h3 class="text-weight-bolder">Hello Summer <br>
+          <h2 class="text-weight-bolder feeling-passionate">Hello Summer <br>
             @<br>
-          Feynman</h3>
+          Feynman</h2>
 
         </div>
     </div>

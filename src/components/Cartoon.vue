@@ -12,7 +12,7 @@
             </q-video>
             </div>
             <div class="text-center col-xs-12 col-md-7 q-px-xs-md q-px-md-xl column q-mt-xs-md">
-                <h4 class="text-weight-bolder q-pb-lg">Pongfinity</h4>
+                <h3 class="text-weight-bolder q-pb-lg feeling-passionate">Pongfinity</h3>
                 <h6 class="q-pb-xs">This is my favourite channel. They try many different challenges and are fun.</h6>
             </div>
         </div>

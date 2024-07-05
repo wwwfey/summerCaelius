@@ -18,7 +18,7 @@
             Your browser does not support the video tag.
           </video>
             <div class="text-center col-xs-12 col-md-7 q-px-xs-md q-px-md-xl column q-mt-xs-md">
-                <h4 class="text-weight-bolder text-primary q-pb-lg">My Best Friends</h4>
+                <h3 class="text-weight-bolder text-primary feeling-passionate q-pb-lg">My Best Friends</h3>
                 <h5 class="q-pb-xs ">School wouldn't be the same without my amazing friends! We laugh, learn, and make memories together - they're the best! 😄</h5>
             </div>
         </div>
@@ -29,7 +29,7 @@
             class="col-xs-12 col-md-5"
             ></q-img>
             <div class="text-center col-xs-12 col-md-7 q-px-xs-md q-px-md-xl column q-mt-xs-md">
-                <h4 class="text-weight-bolder text-primary feeling-passionate q-pb-lg">My Favourite Food</h4>
+                <h3 class="text-weight-bolder text-primary feeling-passionate q-pb-lg">My Favourite Food</h3>
                 <h6 class="q-pb-xs">My favourite food is sashimi. Especially salmon sashimi!</h6>
             </div>
         </div>
